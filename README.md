@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Initial commands to get started
+`npx create-react-app my_react_app (Cannot have upper-case characters) from top-level directory`
+`cd my_react_app`
 ## Available Scripts
 
 In the project directory, you can run:
