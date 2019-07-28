@@ -1,14 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Commands for github to use 
-local side: `git initi` etc...  
+local side: `git init` etc...  
 
 After repository is setup on github  
 `git remote add origin git@github.com:gpsmyth/my_react_app.git`  
 `git push -u origin master`
 ## Initial commands to get started
-`npx create-react-app my_react_app` 
- (Cannot have upper-case characters) from top-level directory  
+`npx create-react-app my_react_app`   
+ (Cannot have upper-case characters) from top-level directory)  
 `cd my_react_app`
 ## Available Scripts
 
